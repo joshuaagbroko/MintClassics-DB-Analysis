@@ -5,11 +5,13 @@ Mint Classics Company is hoping to close one of their storage facilities. They w
 - Introduction
 - Project scenario
 - Project Challenge
--  
+- Data
+- Analysis
+- Summary
 
 Entry-level data analyst at the fictional Mint Classics Company, helping to analyze data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility.
 
-Project Scenario
+## Project Scenario
 
 Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. 
 
@@ -51,7 +53,7 @@ Order Details: It gathers data about others for specific products.
 Office: It includes data on the different branches and the location.
 Employees: It gathers data on the company employees which include; names, address, offices and so on
 
-After studying the EER diagram, th following tables are used to solve the business problem:
+After studying the EER diagram, the following tables are used to solve the business problem:
 
 - warehouses
 - products
@@ -60,7 +62,7 @@ After studying the EER diagram, th following tables are used to solve the busine
 - orderdetails
 
 
-# Analysis 
+## Analysis 
 
 - Warehouses South and North are operating at high capacities, indicating a need for inventory management strategies to optimize space utilization or consider expansion.
 
@@ -70,6 +72,6 @@ After studying the EER diagram, th following tables are used to solve the busine
 
 - The East, North and South generated more revenue than the west warehouse.
 
-# Summary 
+## Summary 
 
 In my overall assessment, it appears reasonable to consider closing the West warehouse. The analysis reveals that the West warehouse has relatively lower revenue compared to other warehouses and houses several slow-moving or non-moving products. However, I acknowledge that this analysis may not be exhaustive, and there are additional factors that I believe should be taken into consideration before making a final decision.
