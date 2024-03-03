@@ -72,4 +72,4 @@ After studying the EER diagram, th following tables are used to solve the busine
 
 # Summary 
 
-In my overall assessment, it appears reasonable to consider closing the West warehouse. However, I acknowledge that this analysis may not be exhaustive, and there are additional factors that I believe should be taken into consideration before making a final decision.
+In my overall assessment, it appears reasonable to consider closing the West warehouse. The analysis reveals that the West warehouse has relatively lower revenue compared to other warehouses and houses several slow-moving or non-moving products. However, I acknowledge that this analysis may not be exhaustive, and there are additional factors that I believe should be taken into consideration before making a final decision.
